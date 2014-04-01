@@ -108,11 +108,6 @@ section {
 		height: 0;
 	 }
 
-/*#home {
-	height: 1080px;
-	background: url("../images/seagalBackground.jpg") center no-repeat;
- }*/
-
 #home > div {
   height: 1000px;
 }
